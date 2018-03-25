@@ -1,7 +1,799 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0043710-f163-4836-8843-af12098e5f38" name="Default" comment="" />
+    <list default="true" id="d0043710-f163-4836-8843-af12098e5f38" name="Default" comment="update">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/animate.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/bootstrap-select.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/cs-skin-elastic.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/flag-icon.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/font-awesome.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/lib/chosen/chosen-sprite.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/lib/chosen/chosen-sprite@2x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/lib/chosen/chosen.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/lib/chosen/chosen.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/lib/datatable/buttons.bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/lib/datatable/buttons.dataTables.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/lib/datatable/dataTables.bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/lib/vector-map/jqvmap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/normalize.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/style.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/themify-icons.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/variables.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/codropsicons/codropsicons.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/codropsicons/codropsicons.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/codropsicons/codropsicons.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/codropsicons/codropsicons.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/codropsicons/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/codropsicons/license.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/icomoon/icomoon.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/icomoon/icomoon.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/icomoon/icomoon.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/icomoon/icomoon.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/icomoon/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/themify.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/themify.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/themify.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/themify.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/chartjs.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/dashboard.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/less.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/chart-js/Chart.bundle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/chart-js/chartjs-init.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/chosen/chosen.jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/chosen/chosen.jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/chosen/chosen.proto.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/chosen/chosen.proto.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/data-table/buttons.bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/data-table/buttons.colVis.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/data-table/buttons.flash.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/data-table/buttons.html5.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/data-table/buttons.print.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/data-table/dataTables.bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/data-table/dataTables.buttons.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/data-table/datatables-init.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/data-table/datatables.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/data-table/jquery-1.12.4.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/data-table/jquery.dataTables.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/data-table/jszip.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/data-table/pdfmake.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/data-table/vfs_fonts.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/flot-chart/curvedLines.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/flot-chart/excanvas.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/flot-chart/flot-chart-init.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/flot-chart/flot-tooltip/jquery.flot.tooltip.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/flot-chart/jquery.flot.categories.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/flot-chart/jquery.flot.crosshair.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/flot-chart/jquery.flot.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/flot-chart/jquery.flot.pie.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/flot-chart/jquery.flot.resize.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/flot-chart/jquery.flot.stack.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/flot-chart/jquery.flot.threshold.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/flot-chart/jquery.flot.time.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/gauge/gauge.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/gmap/gmap.init.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/gmap/gmapApi.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/gmap/gmaps.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/gmap/gmaps.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/peitychart/jquery.peity.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/peitychart/peitychart.init.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/vector-map/country/jquery.vmap.algeria.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/vector-map/country/jquery.vmap.argentina.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/vector-map/country/jquery.vmap.brazil.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/vector-map/country/jquery.vmap.europe.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/vector-map/country/jquery.vmap.france.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/vector-map/country/jquery.vmap.germany.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/vector-map/country/jquery.vmap.greece.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/vector-map/country/jquery.vmap.iran.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/vector-map/country/jquery.vmap.iraq.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/vector-map/country/jquery.vmap.russia.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/vector-map/country/jquery.vmap.tunisia.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/vector-map/country/jquery.vmap.turkey.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/vector-map/country/jquery.vmap.usa.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/vector-map/country/jquery.vmap.world.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/vector-map/jquery.vmap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/vector-map/jquery.vmap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/vector-map/jquery.vmap.sampledata.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/lib/vector-map/vector.init.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/main.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/plugins.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/popper.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/selectFx.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/widgets.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/0c2f4e7e3ce607a0f7f238a71122520ed74aaa15/_gauge.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/0c2f4e7e3ce607a0f7f238a71122520ed74aaa15/_switches.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/0c2f4e7e3ce607a0f7f238a71122520ed74aaa15/_widgets.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/0c2f4e7e3ce607a0f7f238a71122520ed74aaa15/style.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/0c2f4e7e3ce607a0f7f238a71122520ed74aaa15/variables.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_alert.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_background-variant.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_badge.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_border-radius.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_box-shadow.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_breakpoints.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_buttons.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_caret.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_clearfix.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_float.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_forms.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_gradients.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_grid-framework.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_grid.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_hover.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_image.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_list-group.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_lists.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_nav-divider.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_pagination.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_reset-text.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_resize.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_screen-reader.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_size.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_table-row.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_text-emphasis.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_text-hide.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_text-truncate.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_transition.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_visibility.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_alert.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_badge.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_breadcrumb.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_button-group.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_buttons.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_card.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_carousel.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_close.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_code.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_custom-forms.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_dropdown.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_forms.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_functions.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_grid.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_images.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_input-group.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_jumbotron.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_list-group.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_media.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_mixins.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_modal.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_nav.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_navbar.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_pagination.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_popover.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_print.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_progress.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_reboot.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_root.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_tables.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_tooltip.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_transitions.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_type.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_utilities.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_variables.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/bootstrap.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_alert.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_badge.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_breadcrumb.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_button-group.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_buttons.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_card.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_carousel.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_close.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_code.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_custom-forms.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_dropdown.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_forms.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_functions.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_grid.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_images.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_input-group.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_jumbotron.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_list-group.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_media.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_mixins.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_modal.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_nav.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_navbar.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_pagination.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_popover.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_print.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_progress.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_reboot.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_root.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_tables.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_tooltip.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_transitions.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_type.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_utilities.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_variables.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/bootstrap.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/6da42945727bdadaec570db1596987e0a46bfa4d/_gauge.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/6da42945727bdadaec570db1596987e0a46bfa4d/_switches.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/6da42945727bdadaec570db1596987e0a46bfa4d/_widgets.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/6da42945727bdadaec570db1596987e0a46bfa4d/socials.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/6da42945727bdadaec570db1596987e0a46bfa4d/style.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/6da42945727bdadaec570db1596987e0a46bfa4d/variables.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_align.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_background.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_borders.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_clearfix.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_display.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_embed.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_flex.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_float.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_position.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_screenreaders.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_sizing.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_spacing.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_text.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_visibility.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_alert.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_background-variant.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_badge.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_border-radius.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_box-shadow.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_breakpoints.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_buttons.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_caret.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_clearfix.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_float.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_forms.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_gradients.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_grid-framework.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_grid.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_hover.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_image.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_list-group.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_lists.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_nav-divider.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_pagination.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_reset-text.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_resize.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_screen-reader.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_size.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_table-row.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_text-emphasis.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_text-hide.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_text-truncate.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_transition.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_visibility.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_align.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_background.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_borders.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_clearfix.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_display.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_embed.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_flex.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_float.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_position.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_screenreaders.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_sizing.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_spacing.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_text.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_visibility.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/_gauge.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/_switches.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/_widgets.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_alert.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_badge.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_breadcrumb.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_button-group.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_buttons.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_card.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_carousel.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_close.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_code.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_custom-forms.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_dropdown.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_forms.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_functions.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_grid.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_images.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_input-group.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_jumbotron.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_list-group.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_media.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_mixins.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_modal.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_nav.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_navbar.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_pagination.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_popover.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_print.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_progress.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_reboot.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_root.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_tables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_tooltip.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_transitions.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_type.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_utilities.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/_variables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/bootstrap-grid.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/bootstrap-grid.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/bootstrap-grid.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/bootstrap-reboot.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/bootstrap-reboot.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/bootstrap-reboot.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/bootstrap.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_alert.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_background-variant.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_badge.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_border-radius.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_box-shadow.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_breakpoints.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_buttons.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_caret.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_clearfix.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_float.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_forms.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_gradients.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_grid-framework.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_grid.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_hover.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_image.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_list-group.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_lists.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_nav-divider.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_navbar-align.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_pagination.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_reset-text.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_resize.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_screen-reader.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_size.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_table-row.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_text-emphasis.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_text-hide.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_text-truncate.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_transition.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/mixins/_visibility.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/utilities/_align.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/utilities/_background.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/utilities/_borders.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/utilities/_clearfix.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/utilities/_display.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/utilities/_embed.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/utilities/_flex.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/utilities/_float.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/utilities/_position.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/utilities/_screenreaders.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/utilities/_sizing.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/utilities/_spacing.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/utilities/_text.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/bootstrap/utilities/_visibility.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/socials.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/socials.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/socials.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/style.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/style.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/variables.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/variables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/widgets.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/app/Http/Controllers/backend/HomeController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/app/Http/Controllers/backend/LoginController.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/app/Http/Middleware/backend/CheckAdmin.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/app/Http/Middleware/backend/CheckLogin.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/app/Model/Menu.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/app/Model/MenuType.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/database/migrations/2018_03_24_172458_create_menu_types_table.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/database/migrations/2018_03_24_172508_create_menus_table.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/css/animate.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/css/bootstrap-select.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/css/cs-skin-elastic.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/css/flag-icon.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/css/font-awesome.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/css/lib/chosen/chosen-sprite.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/css/lib/chosen/chosen-sprite@2x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/css/lib/chosen/chosen.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/css/lib/chosen/chosen.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/css/lib/datatable/buttons.bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/css/lib/datatable/buttons.dataTables.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/css/lib/datatable/dataTables.bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/css/lib/vector-map/jqvmap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/css/normalize.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/css/style.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/css/themify-icons.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/css/variables.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/FontAwesome.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/codropsicons/codropsicons.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/codropsicons/codropsicons.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/codropsicons/codropsicons.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/codropsicons/codropsicons.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/codropsicons/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/codropsicons/license.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/fontawesome-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/fontawesome-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/fontawesome-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/icomoon/icomoon.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/icomoon/icomoon.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/icomoon/icomoon.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/icomoon/icomoon.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/icomoon/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/themify.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/themify.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/themify.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/fonts/themify.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/chartjs.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/dashboard.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/less.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/chart-js/Chart.bundle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/chart-js/chartjs-init.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/chosen/chosen.jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/chosen/chosen.jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/chosen/chosen.proto.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/chosen/chosen.proto.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/data-table/buttons.bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/data-table/buttons.colVis.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/data-table/buttons.flash.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/data-table/buttons.html5.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/data-table/buttons.print.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/data-table/dataTables.bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/data-table/dataTables.buttons.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/data-table/datatables-init.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/data-table/datatables.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/data-table/jquery-1.12.4.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/data-table/jquery.dataTables.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/data-table/jszip.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/data-table/pdfmake.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/data-table/vfs_fonts.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/flot-chart/curvedLines.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/flot-chart/excanvas.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/flot-chart/flot-chart-init.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/flot-chart/flot-tooltip/jquery.flot.tooltip.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/flot-chart/jquery.flot.categories.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/flot-chart/jquery.flot.crosshair.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/flot-chart/jquery.flot.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/flot-chart/jquery.flot.pie.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/flot-chart/jquery.flot.resize.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/flot-chart/jquery.flot.stack.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/flot-chart/jquery.flot.threshold.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/flot-chart/jquery.flot.time.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/gauge/gauge.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/gmap/gmap.init.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/gmap/gmapApi.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/gmap/gmaps.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/gmap/gmaps.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/peitychart/jquery.peity.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/peitychart/peitychart.init.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/vector-map/country/jquery.vmap.algeria.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/vector-map/country/jquery.vmap.argentina.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/vector-map/country/jquery.vmap.brazil.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/vector-map/country/jquery.vmap.europe.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/vector-map/country/jquery.vmap.france.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/vector-map/country/jquery.vmap.germany.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/vector-map/country/jquery.vmap.greece.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/vector-map/country/jquery.vmap.iran.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/vector-map/country/jquery.vmap.iraq.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/vector-map/country/jquery.vmap.russia.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/vector-map/country/jquery.vmap.tunisia.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/vector-map/country/jquery.vmap.turkey.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/vector-map/country/jquery.vmap.usa.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/vector-map/country/jquery.vmap.world.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/vector-map/jquery.vmap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/vector-map/jquery.vmap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/vector-map/jquery.vmap.sampledata.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/lib/vector-map/vector.init.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/main.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/plugins.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/popper.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/selectFx.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/js/widgets.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/0c2f4e7e3ce607a0f7f238a71122520ed74aaa15/_gauge.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/0c2f4e7e3ce607a0f7f238a71122520ed74aaa15/_switches.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/0c2f4e7e3ce607a0f7f238a71122520ed74aaa15/_widgets.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/0c2f4e7e3ce607a0f7f238a71122520ed74aaa15/style.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/0c2f4e7e3ce607a0f7f238a71122520ed74aaa15/variables.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_alert.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_background-variant.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_badge.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_border-radius.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_box-shadow.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_breakpoints.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_buttons.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_caret.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_clearfix.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_float.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_forms.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_gradients.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_grid-framework.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_grid.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_hover.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_image.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_list-group.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_lists.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_nav-divider.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_pagination.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_reset-text.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_resize.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_screen-reader.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_size.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_table-row.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_text-emphasis.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_text-hide.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_text-truncate.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_transition.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_visibility.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_alert.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_badge.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_breadcrumb.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_button-group.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_buttons.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_card.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_carousel.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_close.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_code.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_custom-forms.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_dropdown.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_forms.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_functions.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_grid.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_images.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_input-group.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_jumbotron.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_list-group.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_media.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_mixins.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_modal.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_nav.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_navbar.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_pagination.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_popover.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_print.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_progress.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_reboot.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_root.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_tables.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_tooltip.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_transitions.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_type.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_utilities.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_variables.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/bootstrap.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_alert.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_badge.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_breadcrumb.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_button-group.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_buttons.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_card.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_carousel.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_close.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_code.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_custom-forms.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_dropdown.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_forms.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_functions.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_grid.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_images.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_input-group.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_jumbotron.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_list-group.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_media.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_mixins.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_modal.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_nav.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_navbar.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_pagination.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_popover.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_print.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_progress.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_reboot.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_root.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_tables.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_tooltip.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_transitions.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_type.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_utilities.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_variables.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/bootstrap.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/6da42945727bdadaec570db1596987e0a46bfa4d/_gauge.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/6da42945727bdadaec570db1596987e0a46bfa4d/_switches.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/6da42945727bdadaec570db1596987e0a46bfa4d/_widgets.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/6da42945727bdadaec570db1596987e0a46bfa4d/socials.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/6da42945727bdadaec570db1596987e0a46bfa4d/style.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/6da42945727bdadaec570db1596987e0a46bfa4d/variables.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_align.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_background.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_borders.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_clearfix.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_display.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_embed.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_flex.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_float.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_position.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_screenreaders.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_sizing.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_spacing.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_text.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_visibility.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_alert.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_background-variant.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_badge.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_border-radius.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_box-shadow.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_breakpoints.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_buttons.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_caret.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_clearfix.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_float.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_forms.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_gradients.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_grid-framework.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_grid.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_hover.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_image.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_list-group.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_lists.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_nav-divider.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_pagination.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_reset-text.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_resize.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_screen-reader.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_size.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_table-row.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_text-emphasis.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_text-hide.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_text-truncate.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_transition.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_visibility.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_align.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_background.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_borders.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_clearfix.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_display.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_embed.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_flex.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_float.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_position.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_screenreaders.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_sizing.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_spacing.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_text.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_visibility.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/_gauge.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/_switches.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/_widgets.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_alert.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_badge.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_breadcrumb.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_button-group.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_buttons.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_card.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_carousel.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_close.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_code.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_custom-forms.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_dropdown.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_forms.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_functions.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_grid.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_images.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_input-group.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_jumbotron.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_list-group.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_media.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_mixins.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_modal.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_nav.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_navbar.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_pagination.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_popover.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_print.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_progress.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_reboot.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_root.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_tables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_tooltip.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_transitions.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_type.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_utilities.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/_variables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/bootstrap-grid.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/bootstrap-grid.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/bootstrap-grid.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/bootstrap-reboot.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/bootstrap-reboot.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/bootstrap-reboot.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/bootstrap.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_alert.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_background-variant.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_badge.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_border-radius.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_box-shadow.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_breakpoints.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_buttons.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_caret.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_clearfix.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_float.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_forms.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_gradients.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_grid-framework.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_grid.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_hover.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_image.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_list-group.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_lists.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_nav-divider.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_navbar-align.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_pagination.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_reset-text.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_resize.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_screen-reader.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_size.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_table-row.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_text-emphasis.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_text-hide.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_text-truncate.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_transition.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/mixins/_visibility.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/utilities/_align.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/utilities/_background.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/utilities/_borders.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/utilities/_clearfix.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/utilities/_display.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/utilities/_embed.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/utilities/_flex.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/utilities/_float.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/utilities/_position.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/utilities/_screenreaders.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/utilities/_sizing.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/utilities/_spacing.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/utilities/_text.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/bootstrap/utilities/_visibility.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/socials.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/socials.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/socials.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/style.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/style.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/variables.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/variables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/assets/sass/widgets.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/layouts/master.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/login/forget.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/login/login.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/login/register.blade.php" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change beforePath="$PROJECT_DIR$/laravel/app/Http/Kernel.php" afterPath="$PROJECT_DIR$/laravel/app/Http/Kernel.php" />
+      <change beforePath="$PROJECT_DIR$/laravel/routes/web.php" afterPath="$PROJECT_DIR$/laravel/routes/web.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,107 +806,178 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018_03_22_145655_create_products_table.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_22_145655_create_products_table.php">
+      <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="28" column="59" lean-forward="false" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
+            <state relative-caret-position="323">
+              <caret line="28" column="44" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018_03_22_145631_create_category_products_table.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_22_145631_create_category_products_table.php">
+      <file leaf-file-name="LoginController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/laravel/app/Http/Controllers/backend/LoginController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="25" column="59" lean-forward="false" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+            <state relative-caret-position="85">
+              <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+              <folding>
+                <element signature="e#48#84#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/resources/views/backend/login/login.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="30" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="14" selection-end-column="30" />
+              <folding>
+                <element signature="e#589#596#1#HTML" expanded="true" />
+                <element signature="e#1034#1051#0#HTML" expanded="true" />
+                <element signature="e#1459#1476#0#HTML" expanded="true" />
+                <marker date="1522000297718" expanded="true" signature="9:33" ph="..." />
+                <marker date="1522000297718" expanded="true" signature="45:54" ph="..." />
+                <marker date="1522000297718" expanded="true" signature="273:293" ph="..." />
+                <marker date="1522000297718" expanded="true" signature="351:365" ph="..." />
+                <marker date="1522000297718" expanded="true" signature="397:418" ph="..." />
+                <marker date="1522000297718" expanded="true" signature="640:663" ph="..." />
+                <marker date="1522000297718" expanded="true" signature="973:997" ph="..." />
+                <marker date="1522000297718" expanded="true" signature="1054:1080" ph="..." />
+                <marker date="1522000297718" expanded="true" signature="1398:1422" ph="..." />
+                <marker date="1522000297718" expanded="true" signature="1479:1505" ph="..." />
+                <marker date="1522000297718" expanded="true" signature="1864:1894" ph="..." />
+                <marker date="1522000297718" expanded="true" signature="2235:2258" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/app/Http/Controllers/backend/HomeController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="80" column="19" lean-forward="true" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018_03_22_145440_create_news_table.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_22_145440_create_news_table.php">
+      <file leaf-file-name="Controller.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/app/Http/Controllers/Controller.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="27" column="59" lean-forward="false" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018_03_22_145412_create_news_types_table.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_22_145412_create_news_types_table.php">
+      <file leaf-file-name="master.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/resources/views/backend/layouts/master.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+            <state relative-caret-position="139">
+              <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+              <folding>
+                <marker date="1521999584059" expanded="true" signature="219:269" ph="..." />
+                <marker date="1521999584059" expanded="true" signature="302:339" ph="..." />
+                <marker date="1521999584059" expanded="true" signature="372:406" ph="..." />
+                <marker date="1521999584059" expanded="true" signature="439:470" ph="..." />
+                <marker date="1521999584059" expanded="true" signature="577:616" ph="..." />
+                <marker date="1521999584059" expanded="true" signature="590:614" ph="..." />
+                <marker date="1521999584059" expanded="true" signature="656:1363" ph="..." />
+                <marker date="1521999584059" expanded="true" signature="669:697" ph="..." />
+                <marker date="1521999584059" expanded="true" signature="669:1363" ph="..." />
+                <marker date="1521999584059" expanded="true" signature="739:785" ph="..." />
+                <marker date="1521999584059" expanded="true" signature="752:783" ph="..." />
+                <marker date="1521999584059" expanded="true" signature="825:1363" ph="..." />
+                <marker date="1521999584059" expanded="true" signature="838:866" ph="..." />
+                <marker date="1521999584059" expanded="true" signature="838:1363" ph="..." />
+                <marker date="1521999584059" expanded="true" signature="908:951" ph="..." />
+                <marker date="1521999584059" expanded="true" signature="921:949" ph="..." />
+                <marker date="1521999584059" expanded="true" signature="991:1363" ph="..." />
+                <marker date="1521999584059" expanded="true" signature="1004:1034" ph="..." />
+                <marker date="1521999584059" expanded="true" signature="1004:1363" ph="..." />
+                <marker date="1521999584059" expanded="true" signature="1076:1111" ph="..." />
+                <marker date="1521999584059" expanded="true" signature="1076:1363" ph="..." />
+                <marker date="1521999584059" expanded="true" signature="1330:1339" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-357">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018_03_22_145326_create_category_news_table.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_22_145326_create_category_news_table.php">
+      <file leaf-file-name="forget.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/resources/views/backend/login/forget.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="20" column="69" lean-forward="false" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
-              <folding />
+            <state relative-caret-position="476">
+              <caret line="28" column="69" lean-forward="false" selection-start-line="28" selection-start-column="69" selection-end-line="28" selection-end-column="69" />
+              <folding>
+                <element signature="e#766#773#1#HTML" expanded="true" />
+                <element signature="e#1208#1225#0#HTML" expanded="true" />
+                <marker date="1522001028993" expanded="true" signature="9:33" ph="..." />
+                <marker date="1522001028993" expanded="true" signature="45:54" ph="..." />
+                <marker date="1522001028993" expanded="true" signature="511:541" ph="..." />
+                <marker date="1522001028993" expanded="true" signature="574:595" ph="..." />
+                <marker date="1522001028993" expanded="true" signature="817:840" ph="..." />
+                <marker date="1522001028993" expanded="true" signature="1150:1171" ph="..." />
+                <marker date="1522001028993" expanded="true" signature="1228:1251" ph="..." />
+                <marker date="1522001028993" expanded="true" signature="1562:1582" ph="..." />
+                <marker date="1522001028993" expanded="true" signature="1661:1675" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018_03_22_145038_create_users_table.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_22_145038_create_users_table.php">
+      <file leaf-file-name="register.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/resources/views/backend/login/register.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="28" column="71" lean-forward="false" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018_03_22_144650_create_roles_table.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_22_144650_create_roles_table.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018_03_22_144639_create_colors_table.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_22_144639_create_colors_table.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="19" column="48" lean-forward="false" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018_03_22_144631_create_sizes_table.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_22_144631_create_sizes_table.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="19" column="48" lean-forward="false" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018_03_22_144609_create_genders_table.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_22_144609_create_genders_table.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-              <folding />
+            <state relative-caret-position="244">
+              <caret line="45" column="24" lean-forward="false" selection-start-line="45" selection-start-column="24" selection-end-line="47" selection-end-column="30" />
+              <folding>
+                <element signature="e#512#519#1#HTML" expanded="true" />
+                <element signature="e#946#963#0#HTML" expanded="true" />
+                <element signature="e#1364#1381#0#HTML" expanded="true" />
+                <element signature="e#1789#1806#0#HTML" expanded="true" />
+                <element signature="e#2220#2237#0#HTML" expanded="true" />
+                <marker date="1522001001708" expanded="true" signature="9:33" ph="..." />
+                <marker date="1522001001708" expanded="true" signature="45:54" ph="..." />
+                <marker date="1522001001708" expanded="true" signature="320:341" ph="..." />
+                <marker date="1522001001708" expanded="true" signature="563:586" ph="..." />
+                <marker date="1522001001708" expanded="true" signature="888:909" ph="..." />
+                <marker date="1522001001708" expanded="true" signature="966:989" ph="..." />
+                <marker date="1522001001708" expanded="true" signature="1303:1327" ph="..." />
+                <marker date="1522001001708" expanded="true" signature="1384:1410" ph="..." />
+                <marker date="1522001001708" expanded="true" signature="1728:1752" ph="..." />
+                <marker date="1522001001708" expanded="true" signature="1809:1835" ph="..." />
+                <marker date="1522001001708" expanded="true" signature="2159:2183" ph="..." />
+                <marker date="1522001001708" expanded="true" signature="2240:2266" ph="..." />
+                <marker date="1522001001708" expanded="true" signature="2586:2606" ph="..." />
+                <marker date="1522001001708" expanded="true" signature="2685:2699" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dark</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -157,6 +1020,18 @@
         <option value="$PROJECT_DIR$/laravel/database/migrations/2018_03_22_144639_create_colors_table.php" />
         <option value="$PROJECT_DIR$/laravel/database/migrations/2018_03_22_144631_create_sizes_table.php" />
         <option value="$PROJECT_DIR$/laravel/database/migrations/2018_03_22_144609_create_genders_table.php" />
+        <option value="$PROJECT_DIR$/laravel/database/migrations/2018_03_24_172458_create_menu_types_table.php" />
+        <option value="$PROJECT_DIR$/laravel/database/migrations/2018_03_24_172508_create_menus_table.php" />
+        <option value="$PROJECT_DIR$/laravel/app/Http/Middleware/backend/CheckAdmin.php" />
+        <option value="$PROJECT_DIR$/laravel/app/Http/Kernel.php" />
+        <option value="$PROJECT_DIR$/laravel/app/Http/Middleware/backend/CheckLogin.php" />
+        <option value="$PROJECT_DIR$/laravel/routes/web.php" />
+        <option value="$PROJECT_DIR$/laravel/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/laravel/resources/views/backend/login/master.blade.php" />
+        <option value="$PROJECT_DIR$/laravel/app/Http/Controllers/backend/LoginController.php" />
+        <option value="$PROJECT_DIR$/laravel/resources/views/backend/login/login.blade.php" />
+        <option value="$PROJECT_DIR$/laravel/resources/views/backend/login/register.blade.php" />
+        <option value="$PROJECT_DIR$/laravel/resources/views/backend/login/forget.blade.php" />
       </list>
     </option>
   </component>
@@ -241,11 +1116,14 @@
       <path value="$PROJECT_DIR$/laravel/vendor/monolog/monolog" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -262,12 +1140,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="anhdiep.vn" type="b2602c69:ProjectViewProjectNode" />
               <item name="anhdiep.vn" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="anhdiep.vn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anhdiep.vn" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="anhdiep.vn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anhdiep.vn" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="anhdiep.vn" type="b2602c69:ProjectViewProjectNode" />
@@ -299,34 +1190,32 @@
               <item name="anhdiep.vn" type="b2602c69:ProjectViewProjectNode" />
               <item name="anhdiep.vn" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="laravel" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="database" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="backend" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="anhdiep.vn" type="b2602c69:ProjectViewProjectNode" />
               <item name="anhdiep.vn" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="laravel" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="database" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="migrations" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="anhdiep.vn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="anhdiep.vn" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="laravel" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="database" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="seeds" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="routes" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../laravel-news" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\xampp\htdocs\anhdiep.vn\laravel\resources\views\backend\layouts" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -355,24 +1244,25 @@
       <updated>1521475479293</updated>
       <workItem from="1521475480841" duration="11419000" />
       <workItem from="1521729722825" duration="3251000" />
+      <workItem from="1521912214856" duration="16524000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14670000" />
+    <option name="totallyTimeSpent" value="31194000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33736762" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22239032" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -390,233 +1280,40 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/laravel/app/Http/Controllers/backend/LoginController.php</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2014_10_12_000000_create_users_table.php" />
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2014_10_12_100000_create_password_resets_table.php" />
-    <entry file="file://$PROJECT_DIR$/laravel/tests/CreatesApplication.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/tests/Unit/ExampleTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/tests/TestCase.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/Model/Gender.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_134656_create_gender_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="11" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="20" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_154731_create_color_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="21" column="33" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="21" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_154731_create_size_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="33" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="21" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_152144_create_role_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="33" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="20" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_153945_create_users_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_22_145239_create_news_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_154406_create_category_news_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="28" column="33" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="28" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_145041_create_news_type_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="33" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="20" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_154407_create_news_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="29" column="33" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="29" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_154519_create_category_product_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="27" column="33" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="27" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_154542_create_product_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="30" column="33" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="30" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_154703_create_fashion_store_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="24" column="33" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="24" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_154739_create_product_color_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="21" column="33" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="21" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_154750_create_product_size_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="21" column="33" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="21" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_154842_create_payment_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="33" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="20" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_155242_create_subscribe_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="33" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="19" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_160719_create_delivery_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_162312_create_wishlist_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="21" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_163049_create_password_resets_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="56" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="18" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_155323_create_order_detail_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_155302_create_order_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/Http/Controllers/GenderController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_154542_create_product_table.php" />
+    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_154703_create_fashion_store_table.php" />
+    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_154739_create_product_color_table.php" />
+    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_154750_create_product_size_table.php" />
+    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_154842_create_payment_table.php" />
+    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_155242_create_subscribe_table.php" />
+    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_160719_create_delivery_table.php" />
+    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_162312_create_wishlist_table.php" />
+    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_163049_create_password_resets_table.php" />
+    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_155323_create_order_detail_table.php" />
+    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_19_155302_create_order_table.php" />
+    <entry file="file://$PROJECT_DIR$/laravel/app/User.php" />
     <entry file="file://$PROJECT_DIR$/laravel/bootstrap/app.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="31" column="2" lean-forward="true" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -624,7 +1321,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -632,7 +1328,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -640,7 +1335,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="16" column="37" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -648,7 +1342,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -656,7 +1349,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -664,7 +1356,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -672,7 +1363,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -680,7 +1370,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -688,7 +1377,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -696,7 +1384,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -704,13 +1391,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_22_145655_create_products_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="442">
           <caret line="28" column="59" lean-forward="false" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
           <folding />
         </state>
@@ -718,24 +1404,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_22_145631_create_category_products_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="391">
           <caret line="25" column="59" lean-forward="false" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_22_145440_create_news_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="27" column="59" lean-forward="false" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_22_145412_create_news_types_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -748,18 +1418,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_22_144639_create_colors_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="48" lean-forward="false" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_22_145038_create_users_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
+        <state relative-caret-position="349">
           <caret line="28" column="71" lean-forward="false" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_22_144639_create_colors_table.php">
+    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_22_144609_create_genders_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="19" column="48" lean-forward="false" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        <state relative-caret-position="170">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_22_144631_create_sizes_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -772,19 +1458,232 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_22_144631_create_sizes_table.php">
+    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_22_145412_create_news_types_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="19" column="48" lean-forward="false" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        <state relative-caret-position="187">
+          <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_22_144609_create_genders_table.php">
+    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_22_145440_create_news_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        <state relative-caret-position="204">
+          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="27" selection-end-column="59" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_24_172458_create_menu_types_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2018_03_24_172508_create_menus_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/Http/Controllers/GenderController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1170">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/Http/Middleware/backend/CheckAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="e#47#66#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="54" column="32" lean-forward="true" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/Http/Middleware/backend/CheckLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="30" column="41" lean-forward="false" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+          <folding>
+            <element signature="e#47#59#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="65" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/Http/Controllers/backend/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="80" column="19" lean-forward="true" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="28" column="44" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/resources/views/backend/layouts/master.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          <folding>
+            <marker date="1521999584059" expanded="true" signature="219:269" ph="..." />
+            <marker date="1521999584059" expanded="true" signature="302:339" ph="..." />
+            <marker date="1521999584059" expanded="true" signature="372:406" ph="..." />
+            <marker date="1521999584059" expanded="true" signature="439:470" ph="..." />
+            <marker date="1521999584059" expanded="true" signature="577:616" ph="..." />
+            <marker date="1521999584059" expanded="true" signature="590:614" ph="..." />
+            <marker date="1521999584059" expanded="true" signature="656:1363" ph="..." />
+            <marker date="1521999584059" expanded="true" signature="669:697" ph="..." />
+            <marker date="1521999584059" expanded="true" signature="669:1363" ph="..." />
+            <marker date="1521999584059" expanded="true" signature="739:785" ph="..." />
+            <marker date="1521999584059" expanded="true" signature="752:783" ph="..." />
+            <marker date="1521999584059" expanded="true" signature="825:1363" ph="..." />
+            <marker date="1521999584059" expanded="true" signature="838:866" ph="..." />
+            <marker date="1521999584059" expanded="true" signature="838:1363" ph="..." />
+            <marker date="1521999584059" expanded="true" signature="908:951" ph="..." />
+            <marker date="1521999584059" expanded="true" signature="921:949" ph="..." />
+            <marker date="1521999584059" expanded="true" signature="991:1363" ph="..." />
+            <marker date="1521999584059" expanded="true" signature="1004:1034" ph="..." />
+            <marker date="1521999584059" expanded="true" signature="1004:1363" ph="..." />
+            <marker date="1521999584059" expanded="true" signature="1076:1111" ph="..." />
+            <marker date="1521999584059" expanded="true" signature="1076:1363" ph="..." />
+            <marker date="1521999584059" expanded="true" signature="1330:1339" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/resources/views/backend/login/forget.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="69" lean-forward="false" selection-start-line="28" selection-start-column="69" selection-end-line="28" selection-end-column="69" />
+          <folding>
+            <element signature="e#766#773#1#HTML" expanded="true" />
+            <element signature="e#1208#1225#0#HTML" expanded="true" />
+            <marker date="1522001028993" expanded="true" signature="9:33" ph="..." />
+            <marker date="1522001028993" expanded="true" signature="45:54" ph="..." />
+            <marker date="1522001028993" expanded="true" signature="511:541" ph="..." />
+            <marker date="1522001028993" expanded="true" signature="574:595" ph="..." />
+            <marker date="1522001028993" expanded="true" signature="817:840" ph="..." />
+            <marker date="1522001028993" expanded="true" signature="1150:1171" ph="..." />
+            <marker date="1522001028993" expanded="true" signature="1228:1251" ph="..." />
+            <marker date="1522001028993" expanded="true" signature="1562:1582" ph="..." />
+            <marker date="1522001028993" expanded="true" signature="1661:1675" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/resources/views/backend/login/register.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="45" column="24" lean-forward="false" selection-start-line="45" selection-start-column="24" selection-end-line="47" selection-end-column="30" />
+          <folding>
+            <element signature="e#512#519#1#HTML" expanded="true" />
+            <element signature="e#946#963#0#HTML" expanded="true" />
+            <element signature="e#1364#1381#0#HTML" expanded="true" />
+            <element signature="e#1789#1806#0#HTML" expanded="true" />
+            <element signature="e#2220#2237#0#HTML" expanded="true" />
+            <marker date="1522001001708" expanded="true" signature="9:33" ph="..." />
+            <marker date="1522001001708" expanded="true" signature="45:54" ph="..." />
+            <marker date="1522001001708" expanded="true" signature="320:341" ph="..." />
+            <marker date="1522001001708" expanded="true" signature="563:586" ph="..." />
+            <marker date="1522001001708" expanded="true" signature="888:909" ph="..." />
+            <marker date="1522001001708" expanded="true" signature="966:989" ph="..." />
+            <marker date="1522001001708" expanded="true" signature="1303:1327" ph="..." />
+            <marker date="1522001001708" expanded="true" signature="1384:1410" ph="..." />
+            <marker date="1522001001708" expanded="true" signature="1728:1752" ph="..." />
+            <marker date="1522001001708" expanded="true" signature="1809:1835" ph="..." />
+            <marker date="1522001001708" expanded="true" signature="2159:2183" ph="..." />
+            <marker date="1522001001708" expanded="true" signature="2240:2266" ph="..." />
+            <marker date="1522001001708" expanded="true" signature="2586:2606" ph="..." />
+            <marker date="1522001001708" expanded="true" signature="2685:2699" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/resources/views/backend/login/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="e#589#596#1#HTML" expanded="true" />
+            <element signature="e#1034#1051#0#HTML" expanded="true" />
+            <element signature="e#1459#1476#0#HTML" expanded="true" />
+            <marker date="1522000297718" expanded="true" signature="9:33" ph="..." />
+            <marker date="1522000297718" expanded="true" signature="45:54" ph="..." />
+            <marker date="1522000297718" expanded="true" signature="273:293" ph="..." />
+            <marker date="1522000297718" expanded="true" signature="351:365" ph="..." />
+            <marker date="1522000297718" expanded="true" signature="397:418" ph="..." />
+            <marker date="1522000297718" expanded="true" signature="640:663" ph="..." />
+            <marker date="1522000297718" expanded="true" signature="973:997" ph="..." />
+            <marker date="1522000297718" expanded="true" signature="1054:1080" ph="..." />
+            <marker date="1522000297718" expanded="true" signature="1398:1422" ph="..." />
+            <marker date="1522000297718" expanded="true" signature="1479:1505" ph="..." />
+            <marker date="1522000297718" expanded="true" signature="1864:1894" ph="..." />
+            <marker date="1522000297718" expanded="true" signature="2235:2258" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/Http/Controllers/backend/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+          <folding>
+            <element signature="e#48#84#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
