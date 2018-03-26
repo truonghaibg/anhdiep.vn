@@ -1,4 +1,6 @@
-@extends('backend.layouts.master')
+@extends('backend.layouts.master-login')
+
+@section('title', 'Login')
 
 @section('content')
     <div class="sufee-login d-flex align-content-center flex-wrap">
@@ -45,4 +47,4 @@
             </div>
         </div>
     </div>
-@stop
+@endsection

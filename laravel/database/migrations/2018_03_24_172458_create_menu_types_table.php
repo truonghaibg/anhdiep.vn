@@ -15,8 +15,8 @@ class CreateMenuTypesTable extends Migration
     {
         Schema::create('menu_types', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('slug')->unique();
-            $table->string('name');
+            $table->string('slug' ,191)->unique();
+            $table->string('name', 255);
             $table->text('description')->nullable();
             $table->string('meta_keywords')->nullable();
             $table->string('meta_description')->nullable();

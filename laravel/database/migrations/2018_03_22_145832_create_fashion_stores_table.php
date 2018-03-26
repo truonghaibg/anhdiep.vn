@@ -15,7 +15,7 @@ class CreateFashionStoresTable extends Migration
     {
         Schema::create('fashion_stores', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('name');
+            $table->string('name', 255);
             $table->string('address')->nullable();
             $table->string('phone')->nullable();
             $table->text('description')->nullable();

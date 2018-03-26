@@ -20,15 +20,13 @@ class CheckAdmin
     {
         if (Session::has('login')) {
             $arr = [
-                'username' => Session::get('username')->user_name,
-                'password' => Session::get('password')->user_pass,
+                'username' => Session::get('login')->username,
+                'password' => Session::get('login')->password,
             ];
-
             if (DB::table('users')->where($arr)->count()==1) {
                 return $next($request);
             }
         }
-        Session::flush();
-        return redirect()->intended('login');
+        return redirect()->intended('backend\login');
     }
 }

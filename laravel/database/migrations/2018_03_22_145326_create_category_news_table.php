@@ -18,9 +18,9 @@ class CreateCategoryNewsTable extends Migration
             $table->integer('parent_id')->unsigned();
             $table->foreign('parent_id')->references('id')->on('category_news');
             $table->integer('type')->unsigned();
-            $table->foreign('type')->references('id')->on('news_types');
-            $table->string('name');
-            $table->string('slug');
+            $table->foreign('type')->references('id')->on('category_news_types');
+            $table->string('name', 255);
+            $table->string('slug', 191)->unique();
             $table->text('description')->nullable();
             $table->string('image')->nullable();
             $table->string('meta_keywords')->nullable();

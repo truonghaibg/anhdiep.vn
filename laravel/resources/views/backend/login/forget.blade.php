@@ -1,17 +1,14 @@
-@extends('backend.layouts.master')
+@extends('backend.layouts.master-login')
+
+@section('title', 'Forget password')
 
 @section('content')
 <div id="content-forget">
     <div class="sufee-login d-flex align-content-center flex-wrap">
         <div class="container">
             <div class="login-content">
-                <div class="login-logo">
-                    <a href="index.html">
-                        <img class="align-content" src="images/logo.png" alt="">
-                    </a>
-                </div>
                 <div class="login-form">
-                    <form action="{{url('backend\forget-password')}}">
+                    <form action="{{url('backend\forget-password')}}" method="post">
                         @if($errors->has('error'))
                             <div class="alert alert-danger">
                                 <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
@@ -36,4 +33,4 @@
         </div>
     </div>
 </div>
-@stop
+@endsection

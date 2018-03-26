@@ -1,4 +1,6 @@
-@extends('backend.layouts.master')
+@extends('backend.layouts.master-login')
+
+@section('title', 'Register')
 
 @section('content')
 <div id="content-register">
@@ -53,4 +55,4 @@
         </div>
     </div>
 </div>
-@stop
+@endsection

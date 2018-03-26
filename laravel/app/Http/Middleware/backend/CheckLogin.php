@@ -19,15 +19,14 @@ class CheckLogin
     {
         if (Session::has('login')) {
             $arr = [
-                'username' => Session::get('username')->user_name,
-                'password' => Session::get('password')->user_pass,
+                'username' => Session::get('login')->username,
+                'password' => Session::get('login')->password,
             ];
 
             if (DB::table('users')->where($arr)->count()==1) {
-                return $next($request);
+                return redirect()->intended('backend\home');
             }
         }
-        Session::flush();
-        return redirect()->intended('view');
+        return $next($request);
     }
 }

@@ -22,18 +22,21 @@ Route::group(['namespace'=>'backend', 'prefix' => 'backend'], function () {
         Route::post('/', 'LoginController@postRegister');
     });
 
-    Route::group(['prefix'=>'logout'], function () {
-        Route::get('/', 'LoginController@getLogout');
-    });
+
 
     Route::group(['prefix'=>'forget-password'], function () {
         Route::get('/', 'LoginController@getForgetPassword');
         Route::post('/', 'LoginController@postForgetPassword');
     });
 
-    Route::group(['prefix'=>'/', 'middleware'=>'checkLogin'], function () {
+    Route::group(['prefix'=>'logout'], function () {
+        Route::get('/', 'LoginController@getLogout');
+    });
+
+    Route::group(['prefix'=>'/', 'middleware'=>'checkAdmin'], function () {
+        Route::get('', 'HomeController@index');
         Route::group(['prefix'=>'home'], function () {
-            Route::get('view', 'HomeController@index');
+            Route::get('', 'HomeController@index');
         });
 
         Route::group(['prefix'=>'category'], function () {

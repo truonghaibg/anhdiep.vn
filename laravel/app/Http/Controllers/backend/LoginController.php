@@ -5,6 +5,8 @@ namespace App\Http\Controllers\backend;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Validator;
+use DB;
+use Session;
 
 class LoginController extends Controller
 {
@@ -31,27 +33,22 @@ class LoginController extends Controller
             'password' => 'required',
         ];
 
-        $messages = [
-            'username.required' => 'Username là trường bắt buộc',
-            'password.required' => 'Password là trường bắt buộc',
-        ];
-
-        $validator = Validator::make($request->all(), $rule, $messages);
+        $validator = Validator::make($request->all(), $rule);
 
         if ($validator->fails()) {
             return redirect()->back()->withErrors($validator)->withInput();
         } else {
             $arr = [
                 'username' => $request->input('username'),
-                'password' => md5($request->input('password')),
+                'password' => $request->input('password'),
             ];
             $resultRequest = DB::table('users')->where($arr);
             if ($resultRequest->count()==1) {
                 $data = $resultRequest->first();
                 Session::put('login', $data);
-                return redirect()->intended('backend/home/view');
+                return redirect()->intended('backend/home');
             } else {
-                $errors['error'] = 'Dang nhap khong thanh cong';
+                $errors['error'] = 'Đăng nhập không thành công!';
                 return redirect()->back()->withErrors($errors);
             }
         }
@@ -59,7 +56,8 @@ class LoginController extends Controller
 
     public function getLogout(Request $request)
     {
-        return view('backend.login.logout');
+        Session::flush();
+        return redirect()->intended('backend/login');
     }
 
     public function getForgetPassword(Request $request)
@@ -69,7 +67,27 @@ class LoginController extends Controller
 
     public function postForgetPassword(Request $request)
     {
+        $rule = [
+            'email' => 'required',
+        ];
 
+        $validator = Validator::make($request->all(), $rule);
+
+        if ($validator->fails()) {
+            return redirect()->back()->withErrors($validator)->withInput();
+        } else {
+            $arr = [
+                'email' => $request->input('email'),
+            ];
+            $resultRequest = DB::table('users')->where($arr);
+            if ($resultRequest->count()==1) {
+                $data = $resultRequest->first();
+                return redirect()->intended('backend/login');
+            } else {
+                $errors['error'] = 'Email không tồn tại!';
+                return redirect()->back()->withErrors($errors);
+            }
+        }
     }
     /**
      * Display a listing of the resource.

@@ -15,7 +15,7 @@ class CreatePasswordRestsTable extends Migration
     {
         Schema::create('password_rests', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('username', 125)->index();
+            $table->string('username', 191)->index();
             $table->string('token');
             $table->timestamp('created_at')->nullable();
         });

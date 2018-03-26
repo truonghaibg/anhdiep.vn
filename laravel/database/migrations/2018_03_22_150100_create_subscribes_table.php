@@ -17,6 +17,8 @@ class CreateSubscribesTable extends Migration
             $table->increments('id');
             $table->string('email', 125)->unique();
             $table->boolean('status');
+            $table->string('meta_keywords')->nullable();
+            $table->string('meta_description')->nullable();
             $table->timestamps();
         });
     }
