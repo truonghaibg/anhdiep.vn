@@ -21,7 +21,7 @@ class CreateWishlistsTable extends Migration
             $table->foreign('product_id')->references('id')->on('products');
             $table->string('meta_keywords')->nullable();
             $table->string('meta_description')->nullable();
-            $table->timestamps();
+            $table->nullableTimestamps();
         });
     }
 

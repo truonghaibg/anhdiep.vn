@@ -8,7 +8,7 @@
             <div class="login-content">
                 <div class="login-form">
                     <form action="{{url('backend\login')}}" method="post" role="form">
-                        {!! csrf_field() !!}
+                        {{ csrf_field() }}
                         @if($errors->has('error'))
                             <div class="alert alert-danger">
                                 <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>

@@ -32,7 +32,7 @@ class CreateUsersTable extends Migration
             $table->string('meta_keywords')->nullable();
             $table->string('meta_description')->nullable();
             $table->rememberToken();
-            $table->timestamps();
+            $table->nullableTimestamps();
         });
     }
 

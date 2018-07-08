@@ -8,7 +8,8 @@
         <div class="container">
             <div class="login-content">
                 <div class="login-form">
-                    <form>
+                    <form action="{{url('backend/register')}}" method="post" role="form">
+                        {{csrf_field()}}
                         @if($errors->has('error'))
                             <div class="alert alert-danger">
                                 <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
@@ -48,7 +49,6 @@
                         <div class="register-link m-t-15 text-center">
                             <p>Already have account ? <a href="{{url('backend\login')}}"> Sign in</a></p>
                         </div>
-                        {!! csrf_field() !!}
                     </form>
                 </div>
             </div>

@@ -25,7 +25,7 @@ class CreateNewsTable extends Migration
             $table->string('meta_keywords')->nullable();
             $table->string('meta_description')->nullable();
             $table->boolean('status');
-            $table->timestamps();
+            $table->nullableTimestamps();
         });
     }
 

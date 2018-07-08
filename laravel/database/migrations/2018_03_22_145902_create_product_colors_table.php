@@ -19,7 +19,7 @@ class CreateProductColorsTable extends Migration
             $table->foreign('product_id')->references('id')->on('products');
             $table->integer('color_id')->unsigned();
             $table->foreign('color_id')->references('id')->on('colors');
-            $table->timestamps();
+            $table->nullableTimestamps();
         });
     }
 

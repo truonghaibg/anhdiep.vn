@@ -20,7 +20,7 @@ class CreateColorsTable extends Migration
             $table->string('image')->nullable();
             $table->string('meta_keywords')->nullable();
             $table->string('meta_description')->nullable();
-            $table->timestamps();
+            $table->nullableTimestamps();
         });
     }
 
