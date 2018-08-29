@@ -73,6 +73,7 @@
       <path value="$PROJECT_DIR$/laravel/vendor/egulias/email-validator" />
       <path value="$PROJECT_DIR$/laravel/vendor/psy/psysh" />
       <path value="$PROJECT_DIR$/laravel/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/laravel/vendor/unisharp/laravel-ckeditor" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />

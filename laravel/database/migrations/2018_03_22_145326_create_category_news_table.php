@@ -17,14 +17,11 @@ class CreateCategoryNewsTable extends Migration
             $table->increments('id');
             $table->integer('parent_id')->unsigned();
             $table->foreign('parent_id')->references('id')->on('category_news');
-            $table->integer('type')->unsigned();
-            $table->foreign('type')->references('id')->on('category_news_types');
+            $table->string('type', 255)->nullable();
             $table->string('name', 255);
             $table->string('slug', 191)->unique();
             $table->text('description')->nullable();
             $table->string('image')->nullable();
-            $table->string('meta_keywords')->nullable();
-            $table->string('meta_description')->nullable();
             $table->boolean('status');
             $table->nullableTimestamps();
         });

@@ -19,7 +19,7 @@ class UserSeeder extends Seeder
                 'password' => md5('admin'),
                 'email' => 'truonghaibg@gmail.com',
                 'full_name' => 'Hai Truong Cong',
-                'gender_id' => 1,
+                'gender' => 'F',
                 'created_at' => \Carbon\Carbon::now()
             ],
             [
@@ -29,7 +29,7 @@ class UserSeeder extends Seeder
                 'password' => md5('user'),
                 'email' => 'truonghaibg@gmail.com',
                 'full_name' => 'Hai Truong Cong',
-                'gender_id' => 2,
+                'gender' => 'M',
                 'created_at' => \Carbon\Carbon::now()
             ]
         );

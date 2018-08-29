@@ -17,9 +17,6 @@ class CreatePaymentsTable extends Migration
             $table->increments('id');
             $table->string('name');
             $table->text('description');
-            $table->string('meta_keywords')->nullable();
-            $table->string('meta_description')->nullable();
-            $table->nullableTimestamps();
         });
     }
 

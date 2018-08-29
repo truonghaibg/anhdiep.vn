@@ -13,7 +13,6 @@ class DatabaseSeeder extends Seeder
     {
         $this->call(MenuTypeSeeder::class);
         $this->call(MenuSeeder::class);
-        $this->call(GenderSeeder::class);
         $this->call(ColorSeeder::class);
         //$this->call(NewsTypeSeeder::class);
         $this->call(RoleSeeder::class);

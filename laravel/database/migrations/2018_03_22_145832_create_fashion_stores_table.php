@@ -19,8 +19,6 @@ class CreateFashionStoresTable extends Migration
             $table->string('address')->nullable();
             $table->string('phone')->nullable();
             $table->text('description')->nullable();
-            $table->string('meta_keywords')->nullable();
-            $table->string('meta_description')->nullable();
             $table->boolean('status');
             $table->nullableTimestamps();
         });

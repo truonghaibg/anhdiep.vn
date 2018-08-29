@@ -33,8 +33,6 @@ class CategoryProductSeeder extends Seeder
                 'slug' => 'thoi-trang-nu',
                 'description' => 'Thời trang nữ',
                 'image' => '',
-                'meta_keywords' => 'Thời trang nữ',
-                'meta_description' => 'Thời trang nữ',
                 'status' => '1',
                 'created_at' => \Carbon\Carbon::now()
             ],
@@ -46,11 +44,9 @@ class CategoryProductSeeder extends Seeder
                 'slug' => 'thoi-trang-nu',
                 'description' => 'Thời trang nữ',
                 'image' => '',
-                'meta_keywords' => 'Thời trang nữ',
-                'meta_description' => 'Thời trang nữ',
                 'status' => '1',
                 'created_at' => \Carbon\Carbon::now()
-            ],
+            ]
         );
     }
 }

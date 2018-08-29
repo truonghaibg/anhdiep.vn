@@ -32,6 +32,10 @@ class ComposerStaticInit8a201fbbc5a76c76a769bc070e88b38e
             'Whoops\\' => 7,
             'Webmozart\\Assert\\' => 17,
         ),
+        'U' => 
+        array (
+            'Unisharp\\Ckeditor\\' => 18,
+        ),
         'T' => 
         array (
             'TijsVerkoyen\\CssToInlineStyles\\' => 31,
@@ -127,6 +131,10 @@ class ComposerStaticInit8a201fbbc5a76c76a769bc070e88b38e
         'Webmozart\\Assert\\' => 
         array (
             0 => __DIR__ . '/..' . '/webmozart/assert/src',
+        ),
+        'Unisharp\\Ckeditor\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/unisharp/laravel-ckeditor',
         ),
         'TijsVerkoyen\\CssToInlineStyles\\' => 
         array (
@@ -321,10 +329,20 @@ class ComposerStaticInit8a201fbbc5a76c76a769bc070e88b38e
         'App\\Http\\Controllers\\Auth\\RegisterController' => __DIR__ . '/../..' . '/app/Http/Controllers/Auth/RegisterController.php',
         'App\\Http\\Controllers\\Auth\\ResetPasswordController' => __DIR__ . '/../..' . '/app/Http/Controllers/Auth/ResetPasswordController.php',
         'App\\Http\\Controllers\\Controller' => __DIR__ . '/../..' . '/app/Http/Controllers/Controller.php',
-        'App\\Http\\Controllers\\GenderController' => __DIR__ . '/../..' . '/app/Http/Controllers/GenderController.php',
         'App\\Http\\Controllers\\backend\\CategoryProductController' => __DIR__ . '/../..' . '/app/Http/Controllers/backend/CategoryProductController.php',
+        'App\\Http\\Controllers\\backend\\ColorController' => __DIR__ . '/../..' . '/app/Http/Controllers/backend/ColorController.php',
+        'App\\Http\\Controllers\\backend\\DeliveryController' => __DIR__ . '/../..' . '/app/Http/Controllers/backend/DeliveryController.php',
+        'App\\Http\\Controllers\\backend\\FashionStoreController' => __DIR__ . '/../..' . '/app/Http/Controllers/backend/FashionStoreController.php',
+        'App\\Http\\Controllers\\backend\\GenderController' => __DIR__ . '/../..' . '/app/Http/Controllers/backend/GenderController.php',
         'App\\Http\\Controllers\\backend\\HomeController' => __DIR__ . '/../..' . '/app/Http/Controllers/backend/HomeController.php',
         'App\\Http\\Controllers\\backend\\LoginController' => __DIR__ . '/../..' . '/app/Http/Controllers/backend/LoginController.php',
+        'App\\Http\\Controllers\\backend\\PaymentController' => __DIR__ . '/../..' . '/app/Http/Controllers/backend/PaymentController.php',
+        'App\\Http\\Controllers\\backend\\ProductController' => __DIR__ . '/../..' . '/app/Http/Controllers/backend/ProductController.php',
+        'App\\Http\\Controllers\\backend\\RoleController' => __DIR__ . '/../..' . '/app/Http/Controllers/backend/RoleController.php',
+        'App\\Http\\Controllers\\backend\\SizeController' => __DIR__ . '/../..' . '/app/Http/Controllers/backend/SizeController.php',
+        'App\\Http\\Controllers\\backend\\SizeInformationController' => __DIR__ . '/../..' . '/app/Http/Controllers/backend/SizeInformationController.php',
+        'App\\Http\\Controllers\\backend\\SubscribesController' => __DIR__ . '/../..' . '/app/Http/Controllers/backend/SubscribesController.php',
+        'App\\Http\\Controllers\\backend\\UserController' => __DIR__ . '/../..' . '/app/Http/Controllers/backend/UserController.php',
         'App\\Http\\Kernel' => __DIR__ . '/../..' . '/app/Http/Kernel.php',
         'App\\Http\\Middleware\\EncryptCookies' => __DIR__ . '/../..' . '/app/Http/Middleware/EncryptCookies.php',
         'App\\Http\\Middleware\\RedirectIfAuthenticated' => __DIR__ . '/../..' . '/app/Http/Middleware/RedirectIfAuthenticated.php',
@@ -3561,6 +3579,7 @@ class ComposerStaticInit8a201fbbc5a76c76a769bc070e88b38e
         'TijsVerkoyen\\CssToInlineStyles\\Css\\Property\\Property' => __DIR__ . '/..' . '/tijsverkoyen/css-to-inline-styles/src/Css/Property/Property.php',
         'TijsVerkoyen\\CssToInlineStyles\\Css\\Rule\\Processor' => __DIR__ . '/..' . '/tijsverkoyen/css-to-inline-styles/src/Css/Rule/Processor.php',
         'TijsVerkoyen\\CssToInlineStyles\\Css\\Rule\\Rule' => __DIR__ . '/..' . '/tijsverkoyen/css-to-inline-styles/src/Css/Rule/Rule.php',
+        'Unisharp\\Ckeditor\\ServiceProvider' => __DIR__ . '/..' . '/unisharp/laravel-ckeditor/ServiceProvider.php',
         'UserRoleSeeder' => __DIR__ . '/../..' . '/database/seeds/UserRoleSeeder.php',
         'UserSeeder' => __DIR__ . '/../..' . '/database/seeds/UserSeeder.php',
         'Webmozart\\Assert\\Assert' => __DIR__ . '/..' . '/webmozart/assert/src/Assert.php',

@@ -24,13 +24,10 @@ class CreateUsersTable extends Migration
             $table->string('full_name')->nullable();
             $table->string('phone')->nullable();
             $table->string('address', 255)->nullable();
-            $table->integer('gender_id')->unsigned();
-            $table->foreign('gender_id')->references('id')->on('genders');
+            $table->string('gender', 255)->nullable();
             $table->double('height')->nullable();
             $table->double('weight')->nullable();
             $table->string('facebook', 255)->nullable();
-            $table->string('meta_keywords')->nullable();
-            $table->string('meta_description')->nullable();
             $table->rememberToken();
             $table->nullableTimestamps();
         });

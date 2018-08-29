@@ -17,9 +17,6 @@ class CreateDeliveriesTable extends Migration
             $table->increments('id');
             $table->string('name', 255);
             $table->text('description');
-            $table->string('meta_keywords')->nullable();
-            $table->string('meta_description')->nullable();
-            $table->nullableTimestamps();
         });
     }
 

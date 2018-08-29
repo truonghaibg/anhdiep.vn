@@ -19,8 +19,6 @@ class CreateMenusTable extends Migration
             $table->string('name', 255);
             $table->integer('order');
             $table->text('description')->nullable();
-            $table->string('meta_keywords')->nullable();
-            $table->string('meta_description')->nullable();
             $table->boolean('status');
             $table->nullableTimestamps();
         });

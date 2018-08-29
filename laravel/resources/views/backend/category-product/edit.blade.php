@@ -16,7 +16,7 @@
                 <div class="page-title">
                     <ol class="breadcrumb text-right">
                         <li><a href="#">Dashboard</a></li>
-                        <li><a href="#">Category</a></li>
+                        <li><a href="#">Category product</a></li>
                         <li class="active">Edit</li>
                     </ol>
                 </div>
@@ -31,93 +31,83 @@
             <form id="category-product-id" action="{{url('backend\category-product\store')}}" method="post">
                 {{ csrf_field() }}
                 <div class="row">
-                    <div class="col-lg-4">
+                    <div class="col-lg-6">
                         <div class="form-group">
                             <label class="control-label" for="id-id">Mã danh mục</label>
-                            <input id="id-id" type="text" class="form-control" >
+                            <input id="id-id" type="text" class="form-control" name="id" readonly>
                             <div class="text-block"></div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
                         <div class="form-group">
                             <label class="control-label">Danh mục cha</label>
-                            <input type="text" class="form-control">
+                            <input type="text" class="form-control" name="parent_id">
                             <div class="text-block"></div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
                         <div class="form-group">
                             <label class="control-label">Kiểu danh mục</label>
-                            <input type="text" class="form-control">
+                            <input type="text" class="form-control" name="category_product_type_id">
                             <div class="text-block"></div>
                         </div>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-4">
+                    <div class="col-lg-6">
                         <div class="form-group">
                             <label class="control-label">Slug</label>
-                            <input type="text" class="form-control">
+                            <input type="text" class="form-control" name="slug">
                             <div class="text-block"></div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
                         <div class="form-group">
                             <label class="control-label">Mô tả</label>
-                            <input type="text" class="form-control">
+                            <input type="text" class="form-control" name="description">
                             <div class="text-block"></div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
                         <div class="form-group">
                             <label class="control-label">Hình ảnh</label>
-                            <input type="text" class="form-control">
+                            <input type="text" class="form-control" name="image">
                             <div class="text-block"></div>
                         </div>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-4">
-                        <div class="form-group">
-                            <label class="control-label">Meta keywords</label>
-                            <input type="text" class="form-control">
-                            <div class="text-block"></div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="form-group">
-                            <label class="control-label">Meta description</label>
-                            <input type="text" class="form-control">
-                            <div class="text-block"></div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-6">
                         <div class="form-group">
                             <label class="control-label">Trạng thái</label>
-                            <input type="text" class="form-control">
+                            <input type="text" class="form-control" name="status">
                             <div class="text-block"></div>
                         </div>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-4">
+                    <div class="col-lg-6">
                         <div class="form-group">
                             <label class="control-label">Ngày tạo</label>
-                            <input type="text" class="form-control">
+                            <input type="text" class="form-control" name="created_at" readonly>
                             <div class="text-block"></div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
+
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
                         <div class="form-group">
                             <label class="control-label">Ngày cập nhật</label>
-                            <input type="text" class="form-control">
-                            <div class="text-block"></div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="form-group">
-                            <label class="control-label">Trạng thái</label>
-                            <input type="text" class="form-control">
+                            <input type="text" class="form-control" name="updated_at" readonly>
                             <div class="text-block"></div>
                         </div>
                     </div>

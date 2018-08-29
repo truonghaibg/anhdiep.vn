@@ -16,13 +16,11 @@ class RoleSeeder extends Seeder
                 'id' => 1,
                 'name' => 'admin',
                 'description' => 'admin',
-                'created_at' => \Carbon\Carbon::now(),
             ],
             [
                 'id' => 2,
                 'name' => 'customer',
                 'description' => 'customer',
-                'created_at' => \Carbon\Carbon::now(),
             ]
         );
     }

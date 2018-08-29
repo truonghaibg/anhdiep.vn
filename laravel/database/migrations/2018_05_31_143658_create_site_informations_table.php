@@ -25,8 +25,6 @@ class CreateSiteInformationsTable extends Migration
             $table->string('email', 255);
             $table->string('facebook', 255);
             $table->string('twitter', 255);
-            $table->string('meta_keywords', 255)->nullable();
-            $table->string('meta_description', 255)->nullable();
             $table->nullableTimestamps();
         });
     }

@@ -126,6 +126,17 @@ Route::group(['namespace'=>'backend', 'prefix' => 'backend'], function () {
             Route::get('delete/{id}', 'PaymentController@destroy')->where(['id'=>'[0-9]+']);
         });
 
+        Route::group(['prefix'=>'subscribe'], function () {
+            Route::get('create', 'SubscribeController@create');
+            Route::post('store', 'SubscribeController@store');
+            Route::get('', 'SubscribeController@index');
+            Route::get('index', 'SubscribeController@index');
+            Route::get('view/{id}', 'SubscribeController@show')->where(['id'=>'[0-9]+']);
+            Route::get('edit/{id}', 'SubscribeController@edit')->where(['id'=>'[0-9]+']);
+            Route::post('update/{id}', 'SubscribeController@update')->where(['id'=>'[0-9]+']);
+            Route::get('delete/{id}', 'SubscribeController@destroy')->where(['id'=>'[0-9]+']);
+        });
+
 
     });
 });

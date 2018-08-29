@@ -54,6 +54,7 @@
                     <ul class="sub-menu children dropdown-menu">
                         <li><i class="menu-icon fa fa-th"></i><a href="{{url('backend/gender')}}">Gender</a></li>
                         <li><i class="menu-icon fa fa-th"></i><a href="{{url('backend/role')}}">Role</a></li>
+                        <li><i class="menu-icon fa fa-th"></i><a href="{{url('backend/subscribe')}}">Subscribe</a></li>
                     </ul>
                 </li>
             </ul>
